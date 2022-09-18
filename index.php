@@ -10,6 +10,8 @@
 
 <body>
   <h3>Hallo PHP</h3>
+  <h2>P</h2>
+  <h4>Ini adalah Judul</h4>
   <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Delectus voluptatibus tempore est laborum eum blanditiis recusandae. Nisi vero minus, iste eligendi esse expedita ratione quisquam ducimus culpa quod ex suscipit.</p>
 </body>
 
